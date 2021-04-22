@@ -1,0 +1,11 @@
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\PlaySeries\obj\Debug\netcoreapp3.1\PlaySeries.csprojAssemblyReference.cache
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\PlaySeries\obj\Debug\netcoreapp3.1\PlaySeries.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\PlaySeries\obj\Debug\netcoreapp3.1\PlaySeries.AssemblyInfo.cs
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\PlaySeries\bin\Debug\netcoreapp3.1\PlaySeries.exe
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\PlaySeries\bin\Debug\netcoreapp3.1\PlaySeries.deps.json
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\PlaySeries\bin\Debug\netcoreapp3.1\PlaySeries.runtimeconfig.json
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\PlaySeries\bin\Debug\netcoreapp3.1\PlaySeries.runtimeconfig.dev.json
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\PlaySeries\bin\Debug\netcoreapp3.1\PlaySeries.dll
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\PlaySeries\bin\Debug\netcoreapp3.1\PlaySeries.pdb
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\PlaySeries\obj\Debug\netcoreapp3.1\PlaySeries.dll
+C:\Users\User\Documents\DigitalInovationOne\BootcampDotNET\PlaySeries\obj\Debug\netcoreapp3.1\PlaySeries.pdb
